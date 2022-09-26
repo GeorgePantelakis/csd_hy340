@@ -2,7 +2,7 @@
 
 ---
 
-## Implementation of a compiler for a language called alpha
+## Implementation of a compiler for a language called Alpha
 
 ---
 
